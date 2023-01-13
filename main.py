@@ -6,7 +6,7 @@ wn = turtle.Screen()
 wn.bgcolor("black")
 wn.setup(height=640, width=1000)
 wn.tracer(0)
-wn.title("Driving test")
+wn.title("Driving test by @TurboRacecar")
 
 car = turtle.Turtle()
 car.color("cyan")
